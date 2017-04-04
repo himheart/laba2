@@ -1,10 +1,12 @@
+
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{23CDDBD7-C00B-424D-B69D-8D5B1E4086A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Money", "Money\Money.csproj", "{2C514A16-CC79-4612-B6DC-24CBF2CE0C8C}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditLibrary", "CreditLibrary\CreditLibrary.csproj", "{16DFCACB-F6D9-4FA7-9DB8-6C116C3D1146}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCard", "BusinessCard\BusinessCard.csproj", "{DBE44689-99C9-45E3-9C07-440EC9EF3DF9}"
 EndProject
