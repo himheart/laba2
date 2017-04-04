@@ -1,4 +1,5 @@
 ﻿using CreditLibrary;
+﻿using BusinessCard;
 
 namespace Lab2
 {
@@ -8,6 +9,8 @@ namespace Lab2
         {
             CreditCard creditCard = new CreditCard();
             creditCard.getCredit();
+            BusinessCardMain businessCard = new BusinessCardMain();
+            businessCard.UseBusinessCard();
         }
     }
 }
