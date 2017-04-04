@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BusinessCard;
 
 namespace Lab2
 {
@@ -10,6 +6,8 @@ namespace Lab2
     {
         static void Main(string[] args)
         {
+            BusinessCardMain businessCard = new BusinessCardMain();
+            businessCard.UseBusinessCard();
         }
     }
 }
